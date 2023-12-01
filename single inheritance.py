@@ -15,6 +15,7 @@ class Male(Human):
         super().work()
         print("I can code")
 
+
 Male_1 = Male(1)
 Male_1.eat()
 Male_1.work()
